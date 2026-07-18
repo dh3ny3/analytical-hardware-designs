@@ -1,0 +1,11 @@
+*.dwl
+*.dwl2
+*.bak
+*.sv$
+*.ac$
+*.tmp
+*.pc3
+*.pmp
+Thumbs.db
+.DS_Store
+desktop.ini
