@@ -19,6 +19,16 @@ Original prototype dispensing arm with orthogonal swing mechanism.
 - Lateral displacement capability for thermal isolation during heated reactions
 - Status: v0.1 Prototype [DRAFT]
 
+### Gravimetric Powder Dispenser.dwg
+
+Original prototype for automated powder dispensing using gravimetric feedback. 
+Integrates with standard analytical balances and volumetric flasks via modular clamp stand.
+
+- Auger-based dispensing calibrated by revolution count (revolutions = mass)
+- Modular clamp stand compatible with 50mL–500mL volumetric flasks
+- Accounts for powder flow dynamics (free-flowing vs. cohesive)
+- Status: v0.1 Prototype [DRAFT] - ️ NOT FOR PRODUCTION USE
+
 ## Licensing & Safety
 All designs are released under the MIT License. See LICENSE for details.
 Note: These are prototype and reference models. Validate material compatibility, mechanical tolerances, and safety factors before laboratory use.
